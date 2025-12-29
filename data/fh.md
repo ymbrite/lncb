@@ -1,6 +1,6 @@
 ---
 title: "战马"
-date: "2025-12-28T20:52:00"
+date: "2025-12-28"
 thumbnail: "/images/dummy-thumbnail.png"
 ---
 
