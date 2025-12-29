@@ -1,6 +1,6 @@
 ---
 title: "测试"
-date: "2025-12-28T20:54:00"
+date: "2025-12-28"
 thumbnail: "/images/dummy-thumbnail.png"
 ---
 
